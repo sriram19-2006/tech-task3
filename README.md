@@ -10,3 +10,4 @@ Ecommerce Website
  - Use common components and layout patterns for professional website design and development.
  - Build amazing professional and responsive websites.
  - Advanced responsive design using media queries & Many More.
+ - deploy link : https://tech-task3-sriramchalla.netlify.app/
